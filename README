@@ -1,0 +1,13 @@
+This is the official BZFlag source code repository, effective July 2013.
+See https://sourceforge.net/p/bzflag/code/ for the prior repository.
+
+The v2.4.2 git tag marks most recent release of 28 July 2012.
+
+Developers, please commit 2.4.2 compatible changes to the v2_4_x git
+branch.  The v2_6_x git branch is the place for changes for the next
+incompatible BZFlag version.  The v2_4_x branch may be merged onto the
+v2_6_x branch as needed.
+
+Visit http://BZFlag.org/ for more information.  The best way to
+contact the BZFlag project leaders is via IRC in the irc.freenode.net
+#bzflag channel.
